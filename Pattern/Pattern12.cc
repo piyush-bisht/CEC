@@ -16,7 +16,7 @@ int main()
                 
             }
             else
-                printf("%d",n-j);    
+                printf("%d",i-(j-i));    
         }
         printf("\n");
     }
